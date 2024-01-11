@@ -1,0 +1,8 @@
+baseURL = "http://localhost:1313"
+languageCode = "pt-BR"
+title = "Receitas da Nilce"
+theme = "recipes"
+
+[params]
+  author = "João Porta"
+  description = "Receitas da Nilce"

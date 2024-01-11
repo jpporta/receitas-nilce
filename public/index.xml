@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Receitas da Nilce</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Receitas da Nilce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Thu, 11 Jan 2024 10:45:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pizza Dona Ely</title>
+      <link>http://localhost:1313/recipes/pizza-dona-ely/</link>
+      <pubDate>Thu, 11 Jan 2024 10:45:45 -0300</pubDate>
+      <guid>http://localhost:1313/recipes/pizza-dona-ely/</guid>
+      <description>Massa de pizza pré-assada com um golinho de pinga. Super crocante.</description>
+    </item>
+    <item>
+      <title>Arroz Verde</title>
+      <link>http://localhost:1313/recipes/arroz-verde/</link>
+      <pubDate>Thu, 11 Jan 2024 10:36:45 -0300</pubDate>
+      <guid>http://localhost:1313/recipes/arroz-verde/</guid>
+      <description>Arroz verde é um acompanhamento muito bom com carnes. Mas também pode ser comido sozinho</description>
+    </item>
+    <item>
+      <title>Frango Gratinado</title>
+      <link>http://localhost:1313/recipes/frango-gratinado/</link>
+      <pubDate>Thu, 11 Jan 2024 09:36:45 -0300</pubDate>
+      <guid>http://localhost:1313/recipes/frango-gratinado/</guid>
+      <description>Frango desfiado gratinado</description>
+    </item>
+  </channel>
+</rss>
