@@ -6,7 +6,7 @@ date: 2024-01-11T10:36:45-03:00
 draft: false
 time: "40min"
 tags: ["acompanhamento", "salgado"]
-featured_image: "/diybeyondburger.jpg"
+featured_image: "/images/arroz-verde.jpg"
 ---
 
 ## Ingredientes

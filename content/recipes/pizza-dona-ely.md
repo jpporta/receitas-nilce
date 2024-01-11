@@ -6,7 +6,7 @@ date: 2024-01-11T10:45:45-03:00
 draft: false
 time: "1h"
 tags: ["refeição", "salgado"]
-featured_image: "/diybeyondburger.jpg"
+featured_image: "/images/pizza-dona-ely.jpg"
 ---
 
 ## Ingredientes
@@ -20,6 +20,7 @@ featured_image: "/diybeyondburger.jpg"
 - 1 colher (sopa) de pinga
 
 ## Passo a Passo
+
 1. Dissolver o **fermento**, **sal** e **açúcar**.
 1. Junte a **água** e o **óleo**.
 1. Sovar a **farinha** com o líquidos até desgrudar dos dedos.
@@ -27,9 +28,8 @@ featured_image: "/diybeyondburger.jpg"
 1. Separar em enrolar em bolas do tamanho de um punho.
 1. Abrir a massa em superfície enfarinhada.
 1. Levar para o forno alto até dourar um pouco.
-1. Retirar colocar **recheio** a gosto e voltar para o forno, de preferencia 
-com o aquecedor superior ligado.
-
+1. Retirar colocar **recheio** a gosto e voltar para o forno, de preferencia
+   com o aquecedor superior ligado.
 
 _Obs.: A massa pode ser feita com antecedência, e voltar ao forno com recheio
 apenas na hora de servir_
