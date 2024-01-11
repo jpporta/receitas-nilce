@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>refeição on Receitas da Nilce</title>
-    <link>http://localhost:1313/tags/refei%C3%A7%C3%A3o/</link>
+    <link>https://receitas-nilce.vercel.app/tags/refei%C3%A7%C3%A3o/</link>
     <description>Recent content in refeição on Receitas da Nilce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 11 Jan 2024 10:45:45 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/refei%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://receitas-nilce.vercel.app/tags/refei%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pizza Dona Ely</title>
-      <link>http://localhost:1313/recipes/pizza-dona-ely/</link>
+      <link>https://receitas-nilce.vercel.app/recipes/pizza-dona-ely/</link>
       <pubDate>Thu, 11 Jan 2024 10:45:45 -0300</pubDate>
-      <guid>http://localhost:1313/recipes/pizza-dona-ely/</guid>
+      <guid>https://receitas-nilce.vercel.app/recipes/pizza-dona-ely/</guid>
       <description>Massa de pizza pré-assada com um golinho de pinga. Super crocante.</description>
     </item>
     <item>
       <title>Frango Gratinado</title>
-      <link>http://localhost:1313/recipes/frango-gratinado/</link>
+      <link>https://receitas-nilce.vercel.app/recipes/frango-gratinado/</link>
       <pubDate>Thu, 11 Jan 2024 09:36:45 -0300</pubDate>
-      <guid>http://localhost:1313/recipes/frango-gratinado/</guid>
+      <guid>https://receitas-nilce.vercel.app/recipes/frango-gratinado/</guid>
       <description>Frango desfiado gratinado</description>
     </item>
   </channel>

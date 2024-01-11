@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>acompanhamento on Receitas da Nilce</title>
-    <link>http://localhost:1313/tags/acompanhamento/</link>
+    <link>https://receitas-nilce.vercel.app/tags/acompanhamento/</link>
     <description>Recent content in acompanhamento on Receitas da Nilce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 11 Jan 2024 10:36:45 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/acompanhamento/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://receitas-nilce.vercel.app/tags/acompanhamento/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arroz Verde</title>
-      <link>http://localhost:1313/recipes/arroz-verde/</link>
+      <link>https://receitas-nilce.vercel.app/recipes/arroz-verde/</link>
       <pubDate>Thu, 11 Jan 2024 10:36:45 -0300</pubDate>
-      <guid>http://localhost:1313/recipes/arroz-verde/</guid>
+      <guid>https://receitas-nilce.vercel.app/recipes/arroz-verde/</guid>
       <description>Arroz verde é um acompanhamento muito bom com carnes. Mas também pode ser comido sozinho</description>
     </item>
   </channel>

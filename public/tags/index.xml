@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Receitas da Nilce</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://receitas-nilce.vercel.app/tags/</link>
     <description>Recent content in Tags on Receitas da Nilce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 11 Jan 2024 10:45:45 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://receitas-nilce.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>refeição</title>
-      <link>http://localhost:1313/tags/refei%C3%A7%C3%A3o/</link>
+      <link>https://receitas-nilce.vercel.app/tags/refei%C3%A7%C3%A3o/</link>
       <pubDate>Thu, 11 Jan 2024 10:45:45 -0300</pubDate>
-      <guid>http://localhost:1313/tags/refei%C3%A7%C3%A3o/</guid>
+      <guid>https://receitas-nilce.vercel.app/tags/refei%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>salgado</title>
-      <link>http://localhost:1313/tags/salgado/</link>
+      <link>https://receitas-nilce.vercel.app/tags/salgado/</link>
       <pubDate>Thu, 11 Jan 2024 10:45:45 -0300</pubDate>
-      <guid>http://localhost:1313/tags/salgado/</guid>
+      <guid>https://receitas-nilce.vercel.app/tags/salgado/</guid>
       <description></description>
     </item>
     <item>
       <title>acompanhamento</title>
-      <link>http://localhost:1313/tags/acompanhamento/</link>
+      <link>https://receitas-nilce.vercel.app/tags/acompanhamento/</link>
       <pubDate>Thu, 11 Jan 2024 10:36:45 -0300</pubDate>
-      <guid>http://localhost:1313/tags/acompanhamento/</guid>
+      <guid>https://receitas-nilce.vercel.app/tags/acompanhamento/</guid>
       <description></description>
     </item>
   </channel>
