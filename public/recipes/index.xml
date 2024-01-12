@@ -6,28 +6,70 @@
     <description>Recent content in Recipes on Receitas da Nilce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 11 Jan 2024 10:45:45 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 10:30:45 -0300</lastBuildDate>
     <atom:link href="https://receitas-nilce.vercel.app/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bolo de Banana</title>
+      <link>https://receitas-nilce.vercel.app/recipes/bolo-de-banana/</link>
+      <pubDate>Fri, 12 Jan 2024 10:30:45 -0300</pubDate>
+      <guid>https://receitas-nilce.vercel.app/recipes/bolo-de-banana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pudim Maria Mole</title>
+      <link>https://receitas-nilce.vercel.app/recipes/pudim-maria-mole/</link>
+      <pubDate>Fri, 12 Jan 2024 10:26:45 -0300</pubDate>
+      <guid>https://receitas-nilce.vercel.app/recipes/pudim-maria-mole/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bolo gelado</title>
+      <link>https://receitas-nilce.vercel.app/recipes/bolo-gelado/</link>
+      <pubDate>Fri, 12 Jan 2024 10:17:45 -0300</pubDate>
+      <guid>https://receitas-nilce.vercel.app/recipes/bolo-gelado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empadinha 3 pingos</title>
+      <link>https://receitas-nilce.vercel.app/recipes/empadinha-3-pingos/</link>
+      <pubDate>Fri, 12 Jan 2024 10:09:45 -0300</pubDate>
+      <guid>https://receitas-nilce.vercel.app/recipes/empadinha-3-pingos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pão da Diva</title>
+      <link>https://receitas-nilce.vercel.app/recipes/pao-da-diva/</link>
+      <pubDate>Fri, 12 Jan 2024 10:05:45 -0300</pubDate>
+      <guid>https://receitas-nilce.vercel.app/recipes/pao-da-diva/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Esfiha</title>
+      <link>https://receitas-nilce.vercel.app/recipes/esfiha/</link>
+      <pubDate>Fri, 12 Jan 2024 09:50:45 -0300</pubDate>
+      <guid>https://receitas-nilce.vercel.app/recipes/esfiha/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pizza Dona Ely</title>
       <link>https://receitas-nilce.vercel.app/recipes/pizza-dona-ely/</link>
       <pubDate>Thu, 11 Jan 2024 10:45:45 -0300</pubDate>
       <guid>https://receitas-nilce.vercel.app/recipes/pizza-dona-ely/</guid>
-      <description>Massa de pizza pré-assada com um golinho de pinga. Super crocante.</description>
+      <description></description>
     </item>
     <item>
       <title>Arroz Verde</title>
       <link>https://receitas-nilce.vercel.app/recipes/arroz-verde/</link>
       <pubDate>Thu, 11 Jan 2024 10:36:45 -0300</pubDate>
       <guid>https://receitas-nilce.vercel.app/recipes/arroz-verde/</guid>
-      <description>Arroz verde é um acompanhamento muito bom com carnes. Mas também pode ser comido sozinho</description>
+      <description></description>
     </item>
     <item>
       <title>Frango Gratinado</title>
       <link>https://receitas-nilce.vercel.app/recipes/frango-gratinado/</link>
       <pubDate>Thu, 11 Jan 2024 09:36:45 -0300</pubDate>
       <guid>https://receitas-nilce.vercel.app/recipes/frango-gratinado/</guid>
-      <description>Frango desfiado gratinado</description>
+      <description></description>
     </item>
   </channel>
 </rss>

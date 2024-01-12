@@ -1,12 +1,12 @@
 ---
 title: "Frango Gratinado"
 description: "Frango Gratinado"
-summary: "Frango desfiado gratinado"
+summary: " "
 date: 2024-01-11T09:36:45-03:00
 draft: false
 time: "40min"
 tags: ["refeição", "salgado"]
-featured_image: "/images/frango-gratinado.jpg"
+featured_image: "/images/frango-gratinado.webp"
 ---
 
 ## Ingredientes

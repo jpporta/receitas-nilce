@@ -1,12 +1,12 @@
 ---
 title: "Pizza Dona Ely"
 description: "Pizza da Dona Ely"
-summary: "Massa de pizza pré-assada com um golinho de pinga. Super crocante."
+summary: " "
 date: 2024-01-11T10:45:45-03:00
 draft: false
 time: "1h"
 tags: ["refeição", "salgado"]
-featured_image: "/images/pizza-dona-ely.jpg"
+featured_image: "/images/pizza-dona-ely.webp"
 ---
 
 ## Ingredientes

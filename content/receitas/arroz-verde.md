@@ -1,10 +1,10 @@
 ---
 title: "Arroz Verde"
 description: "Arroz verde ou Arroz americano"
-summary: "Arroz verde é um acompanhamento muito bom com carnes. Mas também pode ser comido sozinho"
+summary: " "
 date: 2024-01-11T10:36:45-03:00
 draft: false
-time: "40min"
+time: "50min"
 tags: ["acompanhamento", "salgado"]
 featured_image: "/images/arroz-verde.jpg"
 ---
