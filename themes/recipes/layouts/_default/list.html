@@ -1,4 +1,4 @@
-{{ define "main" }}.
+{{ define "main" }}
 <section class="section">
   <div class="container">
     <div class="columns is-centered">
@@ -8,24 +8,20 @@
     </div>
     <div class="columns is-centered">
       <div class="column">
-        {{ range $index, $page := .Pages }}
-          {{ if eq (mod $index 4) 0 }}{{ partial "box.html" $page }}{{ end }}
-        {{ end }}
+        {{ range $index, $page := .Pages }} {{ if eq (mod $index 4) 0 }}{{
+        partial "box.html" $page }}{{ end }} {{ end }}
       </div>
       <div class="column">
-        {{ range $index, $page := .Pages }}
-          {{ if eq (mod $index 4) 1 }}{{ partial "box.html" $page }}{{ end }}
-        {{ end }}
+        {{ range $index, $page := .Pages }} {{ if eq (mod $index 4) 1 }}{{
+        partial "box.html" $page }}{{ end }} {{ end }}
       </div>
       <div class="column">
-        {{ range $index, $page := .Pages }}
-          {{ if eq (mod $index 4) 2 }}{{ partial "box.html" $page }}{{ end }}
-        {{ end }}
+        {{ range $index, $page := .Pages }} {{ if eq (mod $index 4) 2 }}{{
+        partial "box.html" $page }}{{ end }} {{ end }}
       </div>
       <div class="column">
-        {{ range $index, $page := .Pages }}
-          {{ if eq (mod $index 4) 3 }}{{ partial "box.html" $page }}{{ end }}
-        {{ end }}
+        {{ range $index, $page := .Pages }} {{ if eq (mod $index 4) 3 }}{{
+        partial "box.html" $page }}{{ end }} {{ end }}
       </div>
     </div>
   </div>
