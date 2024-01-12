@@ -4,7 +4,7 @@ description: "Empadinha 3 pingos"
 summary: " "
 date: 2024-01-12T10:09:45-03:00
 draft: false
-time: "1h"
+time: "30min"
 tags: ["refeição", "salgado"]
 featured_image: "/images/empadinha-3-pingos.jpeg"
 ---
